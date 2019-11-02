@@ -9,6 +9,9 @@ public class Main {
         names[1] = "Dasha";
         names[2] = "Kuba";
 
+        System.out.println("Доброе утро"  +  names [0] + " " + "Добрый день" + names[1] + " " + "Добрый  вечер" + names[2]);
+
+
         String name = "Nurik";
         switch (name) {
             case "Roma":
@@ -26,6 +29,8 @@ public class Main {
 
 
         }
+
+
 
 
 
